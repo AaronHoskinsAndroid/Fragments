@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Fragments</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="red_fragment">Red Fragment</string>
+    <string name="please_enter_you_social_security_number_here_to_avoid_late_penalty">Please enter you social security number here to avoid late penalty</string>
+</resources>
